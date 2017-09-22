@@ -21,7 +21,7 @@ RUN yum -y update;yum install -y ca-certificates;\
     	sed -i "s/Connector port=\"8080\"/Connector port=\"8080\" bindOnInit=\"${TOMCAT_BIND_ON_INIT}\"/" /tomcat/conf/server.xml;
 
 ADD create_tomcat_admin_user.sh /create_tomcat_admin_user.sh
-COPY CIS-0.0.1-SNAPSHOT.war $CATALINA_HOME/webapps/ 
+COPY sm-shop.war $CATALINA_HOME/webapps/ 
 ADD run.sh /run.sh
 RUN chmod +x /*.sh
 
