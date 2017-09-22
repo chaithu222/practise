@@ -1,0 +1,5 @@
+com/salesmanager/test/shop/controller/store/rest/ContactAPITest.class
+com/salesmanager/test/shop/controller/product/rest/ProductManagementAPITest.class
+com/salesmanager/test/shop/controller/category/rest/CategoryManagementAPITest.class
+com/salesmanager/test/shop/controller/system/rest/SystemAPITest.class
+com/salesmanager/test/shop/controller/customer/rest/CustomerRESTControllerTest.class

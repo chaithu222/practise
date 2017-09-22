@@ -1,0 +1,5 @@
+/root/java_docker_image/shopizer/sm-shop/src/test/java/com/salesmanager/test/shop/controller/system/rest/SystemAPITest.java
+/root/java_docker_image/shopizer/sm-shop/src/test/java/com/salesmanager/test/shop/controller/category/rest/CategoryManagementAPITest.java
+/root/java_docker_image/shopizer/sm-shop/src/test/java/com/salesmanager/test/shop/controller/store/rest/ContactAPITest.java
+/root/java_docker_image/shopizer/sm-shop/src/test/java/com/salesmanager/test/shop/controller/customer/rest/CustomerRESTControllerTest.java
+/root/java_docker_image/shopizer/sm-shop/src/test/java/com/salesmanager/test/shop/controller/product/rest/ProductManagementAPITest.java

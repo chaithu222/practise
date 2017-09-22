@@ -1,0 +1,15 @@
+com/salesmanager/test/order/InvoiceTest.class
+com/salesmanager/test/shipping/ShippingQuoteByWeightTest.class
+com/salesmanager/test/shipping/ShippingMethodDecisionTest.class
+com/salesmanager/test/customer/CustomerTest.class
+com/salesmanager/test/order/OrderTest.class
+com/salesmanager/test/utils/UtilsTestCase.class
+com/salesmanager/test/common/AbstractSalesManagerCoreTestCase.class
+com/salesmanager/test/merchant/MerchantTest.class
+com/salesmanager/test/configuration/ConfigurationTest.class
+com/salesmanager/test/content/ContentImagesTest.class
+com/salesmanager/test/utils/ImportIntegrationModule.class
+com/salesmanager/test/catalog/ProductTest.class
+com/salesmanager/test/shoppingcart/ShoppingCartTest.class
+com/salesmanager/test/references/ReferencesTest.class
+com/salesmanager/test/content/StaticContentTest.class

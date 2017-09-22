@@ -1,0 +1,14 @@
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/Module.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuoteModule.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesRegion.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/payment/model/PaymentModule.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/constants/Constants.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesConfiguration.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/IntegrationException.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteItem.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteWeightItem.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/Encryption.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/GeoLocation.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/order/total/OrderTotalPostProcessorModule.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/Packaging.java
+/root/java_docker_image/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePrePostProcessModule.java

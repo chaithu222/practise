@@ -1,0 +1,5 @@
+/root/java_docker_image/shopizer/sm-search/src/test/java/com/shopizer/test/TestSearchKeywords.java
+/root/java_docker_image/shopizer/sm-search/src/test/java/com/shopizer/test/TestGet.java
+/root/java_docker_image/shopizer/sm-search/src/test/java/com/shopizer/test/TestDelete.java
+/root/java_docker_image/shopizer/sm-search/src/test/java/com/shopizer/test/TestIndex.java
+/root/java_docker_image/shopizer/sm-search/src/test/java/com/shopizer/test/TestSearch.java

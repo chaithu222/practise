@@ -1,0 +1,15 @@
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/order/OrderTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/utils/ImportIntegrationModule.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/common/AbstractSalesManagerCoreTestCase.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/customer/CustomerTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/merchant/MerchantTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/content/ContentImagesTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/shipping/ShippingQuoteByWeightTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/order/InvoiceTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/utils/UtilsTestCase.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/references/ReferencesTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/shipping/ShippingMethodDecisionTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/configuration/ConfigurationTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/shoppingcart/ShoppingCartTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/content/StaticContentTest.java
+/root/java_docker_image/shopizer/sm-core/src/test/java/com/salesmanager/test/catalog/ProductTest.java
