@@ -1,0 +1,5 @@
+DOCKER_USER: "chaithu222"
+DOCKER_PASS: ""
+docker_container_name: "chaithu_apache"
+docker_container_port: 8081
+docker_image_name: "chaithu222/apache_shop"
