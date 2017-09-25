@@ -4,6 +4,8 @@
   become_user: ec2-user
   become_method: sudo
 
+  vars_files:
+    - ../vars/main.yml
 
   tasks:
     - name: login to docker hub
@@ -11,12 +13,14 @@
 
     - name: stop previously running docker container, if any
       command: docker stop {{ docker_container_name }}
+      ignore_errors: yes
 
     - name: remove the application container
       command: docker rm {{ docker_container_name }}
+      ignore_errors: yes
 
     - name: pull docker image
-      command: "docker pull {{ docker_container_name }}"
+      command: "docker pull {{ docker_image_name }}:{{ docker_image_version }}"
 
     - name: run container
-      command: "docker run -d -p {{ docker_container_port }}:8080 --name {{ docker_container_name }} {{ docker_image_name }}"
+      command: "docker run -d -p {{ docker_container_port }}:8080 --name {{ docker_container_name }} {{ docker_image_name }}:{{ docker_image_version }}"
