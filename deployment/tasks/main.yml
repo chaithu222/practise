@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 107.23.43.87
   become: true
   become_user: ec2-user
   become_method: sudo
